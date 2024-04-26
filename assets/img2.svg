@@ -1,0 +1,35 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_136_7)">
+<rect width="20" height="20" fill="#D4C9F3"/>
+<path d="M9.99992 10V10C6.65187 11.933 5.50475 16.2141 7.43774 19.5622L8.93774 22.1603" stroke="black" stroke-width="0.07" stroke-dasharray="0.4 0.2"/>
+<path d="M10.0001 10V10C13.3481 8.067 14.4953 3.78587 12.5623 0.437822L11.0623 -2.16025" stroke="black" stroke-width="0.07"/>
+<path d="M9.99995 10L8.73851 12.7219C7.11295 16.2295 2.95167 17.7552 -0.555952 16.1297V16.1297" stroke="#F5F3FC" stroke-width="0.07" stroke-dasharray="0.4 0.2"/>
+<path d="M10.0001 10L11.2615 7.27809C12.8871 3.77046 11.3613 -0.39081 7.85372 -2.01638V-2.01638" stroke="#F5F3FC" stroke-width="0.07" stroke-dasharray="0.4 0.2"/>
+<path d="M9.99997 9.99999L12.7219 11.2614C16.2295 12.887 17.7552 17.0483 16.1297 20.5559V20.5559" stroke="#F5F3FC" stroke-width="0.07" stroke-dasharray="0.4 0.2"/>
+<path d="M9.99997 9.99999L12.7219 11.2614C16.2295 12.887 20.3908 11.3613 22.0163 7.85365V7.85365" stroke="#F5F3FC" stroke-width="0.07"/>
+<path d="M10 10L7.27812 8.73857C3.7705 7.11301 -0.39078 8.63872 -2.01635 12.1463V12.1463" stroke="#F5F3FC" stroke-width="0.07"/>
+<path d="M10 10L7.27812 8.73857C3.77049 7.11301 2.24478 2.95173 3.87035 -0.555891V-0.555891" stroke="#F5F3FC" stroke-width="0.07"/>
+<path d="M9.99995 10L8.73851 12.7219C7.11295 16.2295 8.63866 20.3908 12.1463 22.0164V22.0164" stroke="#F5F3FC" stroke-width="0.07"/>
+<path d="M10.0001 10L11.2615 7.27809C12.8871 3.77046 17.0483 2.24475 20.556 3.87032V3.87032" stroke="#F5F3FC" stroke-width="0.07" stroke-dasharray="0.4 0.2"/>
+<path d="M10.0001 10V10C13.3481 8.067 17.6293 9.21413 19.5623 12.5622L21.0623 15.1603" stroke="black" stroke-width="0.07"/>
+<path d="M10 10V10C8.067 6.65197 9.21413 2.37083 12.5622 0.437835L15.1603 -1.06216" stroke="black" stroke-width="0.07" stroke-dasharray="0.4 0.2"/>
+<path d="M10 10V10C8.067 6.65197 3.78587 5.50484 0.437821 7.43784L-2.16025 8.93784" stroke="black" stroke-width="0.07"/>
+<path d="M10 9.99999V9.99999C11.933 13.348 16.2141 14.4952 19.5622 12.5622L22.1603 11.0622" stroke="black" stroke-width="0.07" stroke-dasharray="0.4 0.2"/>
+<path d="M9.99992 10V10C6.65187 11.933 2.37074 10.7859 0.437744 7.43782L-1.06226 4.83975" stroke="black" stroke-width="0.07" stroke-dasharray="0.4 0.2"/>
+<path d="M10 9.99999V9.99999C11.933 13.348 10.7859 17.6292 7.43782 19.5622L4.83975 21.0622" stroke="black" stroke-width="0.07"/>
+<circle cx="3.2" cy="2.2" r="0.165" fill="#D4C9F3" stroke="#F5F3FC" stroke-width="0.07"/>
+<circle cx="17.2" cy="11.7" r="0.165" fill="#D4C9F3" stroke="#F5F3FC" stroke-width="0.07"/>
+<circle cx="8.2" cy="16.7" r="0.165" fill="#D4C9F3" stroke="#F5F3FC" stroke-width="0.07"/>
+<circle cx="5.2" cy="7.30001" r="0.165" fill="#D4C9F3" stroke="#F5F3FC" stroke-width="0.07"/>
+<circle cx="3.2" cy="8.2" r="0.165" fill="#D4C9F3" stroke="#F5F3FC" stroke-width="0.07"/>
+<circle cx="2.2" cy="6.7" r="0.165" fill="#D4C9F3" stroke="black" stroke-width="0.07"/>
+<circle cx="13.0999" cy="1.7" r="0.165" fill="#D4C9F3" stroke="black" stroke-width="0.07"/>
+<circle cx="14.2" cy="9.09999" r="0.165" fill="#D4C9F3" stroke="black" stroke-width="0.07"/>
+<circle cx="10.0999" cy="16.8" r="0.165" fill="#D4C9F3" stroke="black" stroke-width="0.07"/>
+</g>
+<defs>
+<clipPath id="clip0_136_7">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>
