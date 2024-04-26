@@ -105,7 +105,7 @@ var base_content = {
             "image": "assets/img7.png",
             "buttons": [
                 ["View Project", "https://jianpark.com/"],
-                ["View Code", ""],
+                ["View Code", "https://github.com/jnpark3/Jian-Personal-Website"],
             ],
         }
     ],
