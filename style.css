@@ -730,4 +730,8 @@ body{
     .rounded{
         border-radius: 1.2vw;
     }
+
+    .bullet-point-width{
+        min-width: 3.6vw;
+    }
 }
