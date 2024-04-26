@@ -228,10 +228,6 @@ body{
     border-width: 0 0.1vw 0.1vw 0;
 }
 
-.arrow-icon-displacement{
-    margin-top: -0.1vw;
-}
-
 /* BUTTON */
 
 .button{
@@ -481,6 +477,9 @@ body{
     .web-hide{
         display: none !important;
     }
+    .arrow-icon-displacement{
+        margin-top: -0.1vw;
+    }
 }
 
 @media only screen and (max-width: 750px) {
@@ -721,5 +720,10 @@ body{
     .arrow-section-size{
         width: 36vw;
         max-height: 1.0vw;
+    }
+
+    .arrow-icon-displacement{
+        margin-top: -0.1vw;
+        width: 3.0vw;
     }
 }
