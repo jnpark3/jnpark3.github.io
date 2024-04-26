@@ -188,7 +188,7 @@ function createRow(title, description, buttons, skills, image) {
 
     if (image != null) {
         str += `<div class="large-h-space"></div>
-        <div class="aspect-ratio border rounded padding box box-height" 
+        <div class="aspect-ratio rounded padding box box-height" 
             style="background-image: url('` + image + `'); 
             background-size: cover;">
         </div>`
@@ -214,7 +214,7 @@ function createImage(image_tuple) {
             ` + image_tuple[1][0] + `</a>
         </div>`
     }
-    image += `<img src="` + image_tuple[0] + `" class="full-width rounded border"></img></div>
+    image += `<img src="` + image_tuple[0] + `" class="full-width rounded"></img></div>
     <div class="medium-v-space"></div>`
     div.innerHTML = image;
     return div;
