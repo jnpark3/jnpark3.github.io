@@ -726,4 +726,8 @@ body{
         margin-top: -0.1vw;
         width: 3.0vw;
     }
+
+    .rounded{
+        border-radius: 1.2vw;
+    }
 }
