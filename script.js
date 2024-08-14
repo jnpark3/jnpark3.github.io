@@ -69,7 +69,7 @@ var base_content = {
             "image": "assets/img4.png",
             "buttons": [
                 ["View Demo", "https://www.youtube.com/watch?v=6Yw5cnbUD-w"],
-                ["View Homepage", "https://www.airstash.io/"],
+                ["View Homepage", "https://jianpark.com/airstash_homepage/"],
             ],
         },
         {
